@@ -96,7 +96,7 @@ Follow these steps to set up and run the project locally:
 ---
 
 ## Project Structure
-
+```
 streamline/
 ├── src/
 │   ├── components/           # React components for UI
@@ -116,7 +116,7 @@ streamline/
 ├── .env                      # Environment variables
 ├── package.json              # Node.js dependencies and scripts
 └── README.md                 # Project documentation
-
+```
 ---
 
 ## Future Improvements
